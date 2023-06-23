@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@isaacritharson](https://medium.com/@isaacritharson)
 
-- 💬 Ask me about **Artificial Neural Networks, Machine Learning Techniques & Data Science**
+- 💬 Ask me about **Artificial Neural Networks, Machine Learning Techniques, Data Science & Jetson Nano**
 
 - 📫 How to reach me **isaacritharson@gmail.com**
 
