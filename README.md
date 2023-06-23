@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Isaac Ritharson P</h1>
-<h3 align="center">A Young Aritficial Intelligence Researcher and Data Scientist from India</h3>
+<h3 align="center">A passionate Aritficial Intelligence Researcher and Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e479n1mnnqo7ap1ferd7ekv8491owhibslgiync83b9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacritharson&label=Profile%20views&color=0e75b6&style=flat" alt="isaacritharson" /> </p>
 
