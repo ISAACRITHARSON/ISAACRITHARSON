@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think I am funnny**
 
-### Blogs posts
+<h1 Blogs posts>
 <!-- BLOG-POST-LIST:START -->
 - [Passion to Profit: A Step-by-Step Guide to Thriving in the AI Art Market](https://medium.com/@isaacritharson/passion-to-profit-a-step-by-step-guide-to-thriving-in-the-ai-art-market-57bab188b384?source=rss-1a76e47d9042------2)
 - [AI in Healthcare and the Quest for Responsible Innovation](https://medium.com/@isaacritharson/ai-in-healthcare-and-the-quest-for-responsible-innovation-1f8e3d031a52?source=rss-1a76e47d9042------2)
