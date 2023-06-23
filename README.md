@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@isaacritharson](https://medium.com/@isaacritharson)
 
-- 💬 Ask me about **Neural Networks, Machine Learning Techniques**
+- 💬 Ask me about **Artificial Neural Networks, Machine Learning Techniques**
 
 - 📫 How to reach me **isaacritharson@gmail.com**
 
