@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contributions**
 
-- 👨‍💻 All of my Research projects are available at [https://www.researchgate.net/profile/Isaac-Ritharson-P](https://www.researchgate.net/profile/Isaac-Ritharson-P)
+- 👨‍💻 All of my research projects are available at [https://www.researchgate.net/profile/Isaac-Ritharson-P](https://www.researchgate.net/profile/Isaac-Ritharson-P)
 
 - 📝 I regularly write articles on [https://medium.com/@isaacritharson](https://medium.com/@isaacritharson)
 
