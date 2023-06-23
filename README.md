@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFhNWM1d2hkcXFicTl2eTk0a3oxdXU5cnJlajZ1aDlwemJkYmx1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif)
+![MasterHead](https://cdn.dribbble.com/userupload/3818973/file/original-647907c3b7480966eccb7a63ea202f14.png?compress=1&resize=752x)
 <h1 align="center">Hi 👋, I'm Isaac Ritharson P</h1>
 <h3 align="center">A passionate Aritficial Intelligence Researcher and Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e479n1mnnqo7ap1ferd7ekv8491owhibslgiync83b9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
