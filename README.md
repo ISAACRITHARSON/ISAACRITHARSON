@@ -43,8 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacritharson&show_icons=true&locale=en" alt="isaacritharson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacritharson&" alt="isaacritharson" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
