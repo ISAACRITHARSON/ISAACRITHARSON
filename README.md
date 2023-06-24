@@ -22,11 +22,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Startups Coming Up: How They Are Changing the World](https://medium.com/@isaacritharson/ai-startups-coming-up-how-they-are-changing-the-world-17d30b57c0c0?source=rss-1a76e47d9042------2)
 - [Passion to Profit: A Step-by-Step Guide to Thriving in the AI Art Market](https://medium.com/@isaacritharson/passion-to-profit-a-step-by-step-guide-to-thriving-in-the-ai-art-market-57bab188b384?source=rss-1a76e47d9042------2)
 - [AI in Healthcare and the Quest for Responsible Innovation](https://medium.com/@isaacritharson/ai-in-healthcare-and-the-quest-for-responsible-innovation-1f8e3d031a52?source=rss-1a76e47d9042------2)
 - [Procedural Content Generation &lpar;PCG&rpar; in Various Fields with AI Integration](https://medium.com/@isaacritharson/procedural-content-generation-pcg-in-various-fields-with-ai-integration-42d9d136383f?source=rss-1a76e47d9042------2)
 - [Exploring Explainable AI &lpar;XAI&rpar;:](https://medium.com/@isaacritharson/exploring-explainable-ai-xai-unveiling-its-intriguing-facts-and-revolutionary-breakthroughs-689ea758fbad?source=rss-1a76e47d9042------2)
-- [No Code, No Problem: Building AI Applications Made Easier](https://medium.com/@isaacritharson/no-code-no-problem-building-ai-applications-made-easier-75e7a91a9739?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
