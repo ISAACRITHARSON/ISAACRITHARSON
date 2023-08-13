@@ -22,11 +22,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [My Submission for the MSME Idea Hackathon 2.0](https://medium.com/@isaacritharson/my-submission-for-the-msme-idea-hackathon-2-0-e5b46b167daf?source=rss-1a76e47d9042------2)
 - [NVIDIA AI-Powered Rational Vaccine Generation: A Step-by-Step Expedition with Top Tools](https://medium.com/@isaacritharson/nvidia-ai-powered-rational-vaccine-generation-a-step-by-step-expedition-with-top-tools-c629921515d2?source=rss-1a76e47d9042------2)
 - [AI and Emotional Intelligence: Advancements in Affective Computing for Empathetic Machines](https://medium.com/@isaacritharson/ai-and-emotional-intelligence-advancements-in-affective-computing-for-empathetic-machines-15b24531eb72?source=rss-1a76e47d9042------2)
 - [AI Startups Coming Up: How They Are Changing the World](https://medium.com/@isaacritharson/ai-startups-coming-up-how-they-are-changing-the-world-17d30b57c0c0?source=rss-1a76e47d9042------2)
 - [Passion to Profit: A Step-by-Step Guide to Thriving in the AI Art Market](https://medium.com/@isaacritharson/passion-to-profit-a-step-by-step-guide-to-thriving-in-the-ai-art-market-57bab188b384?source=rss-1a76e47d9042------2)
-- [AI in Healthcare and the Quest for Responsible Innovation](https://medium.com/@isaacritharson/ai-in-healthcare-and-the-quest-for-responsible-innovation-1f8e3d031a52?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
