@@ -22,7 +22,7 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [My Submission for the MSME Idea Hackathon 2.0](https://medium.com/@isaacritharson/my-submission-for-the-msme-idea-hackathon-2-0-e5b46b167daf?source=rss-1a76e47d9042------2)
+- [My take on the MSME Idea Hackathon 2.0](https://medium.com/@isaacritharson/my-submission-for-the-msme-idea-hackathon-2-0-e5b46b167daf?source=rss-1a76e47d9042------2)
 - [NVIDIA AI-Powered Rational Vaccine Generation: A Step-by-Step Expedition with Top Tools](https://medium.com/@isaacritharson/nvidia-ai-powered-rational-vaccine-generation-a-step-by-step-expedition-with-top-tools-c629921515d2?source=rss-1a76e47d9042------2)
 - [AI and Emotional Intelligence: Advancements in Affective Computing for Empathetic Machines](https://medium.com/@isaacritharson/ai-and-emotional-intelligence-advancements-in-affective-computing-for-empathetic-machines-15b24531eb72?source=rss-1a76e47d9042------2)
 - [AI Startups Coming Up: How They Are Changing the World](https://medium.com/@isaacritharson/ai-startups-coming-up-how-they-are-changing-the-world-17d30b57c0c0?source=rss-1a76e47d9042------2)
