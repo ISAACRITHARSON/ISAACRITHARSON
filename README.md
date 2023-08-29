@@ -22,11 +22,11 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AIOps vs. MLOps Trend: Know the Key differences](https://medium.com/@isaacritharson/aiops-vs-mlops-trend-know-the-difference-c5c33938b85d?source=rss-1a76e47d9042------2)
 - [The AI behind Chandrayaan 3’s Successful Mission to the Moon](https://medium.com/@isaacritharson/know-theai-behind-chandrayaan-3s-success-mission-to-moon-s-south-pole-6a24128eecfd?source=rss-1a76e47d9042------2)
 - [Neuro-AI Interfaces: Bridging Minds and Machines with Technology](https://medium.com/@isaacritharson/neuro-ai-interfaces-bridging-minds-and-machines-with-technology-494266a080a5?source=rss-1a76e47d9042------2)
 - [My take on MSME Idea Hackathon 2.0](https://medium.com/@isaacritharson/my-submission-for-the-msme-idea-hackathon-2-0-e5b46b167daf?source=rss-1a76e47d9042------2)
 - [NVIDIA AI-Powered Rational Vaccine Generation: A Step-by-Step Expedition with Top Tools](https://medium.com/@isaacritharson/nvidia-ai-powered-rational-vaccine-generation-a-step-by-step-expedition-with-top-tools-c629921515d2?source=rss-1a76e47d9042------2)
-- [AI and Emotional Intelligence: Advancements in Affective Computing for Empathetic Machines](https://medium.com/@isaacritharson/ai-and-emotional-intelligence-advancements-in-affective-computing-for-empathetic-machines-15b24531eb72?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
