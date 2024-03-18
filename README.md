@@ -1,4 +1,4 @@
-![MasterHead](https://cutewallpaper.org/23x/jmpos2n60/2114117933.jpg)
+![MasterHead](https://cutewallpaper.org/sc/1920x1080-face-portrait-digital-art-robot-artificial-intelligence-technology-binary-numbers-geometry-profile-hexagon-electricity-wires-circle-glowing-wallpaper-jpg-437-kb-stpmo.html)
 <h1 align="center">Hi <img alt="waving" width="50" height="50" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> , I'm Isaac Ritharson P</h1>
 <h3 align="center">A passionate Aritficial Intelligence Researcher and Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e479n1mnnqo7ap1ferd7ekv8491owhibslgiync83b9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
