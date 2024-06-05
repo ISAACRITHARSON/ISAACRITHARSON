@@ -22,7 +22,7 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind’s AlphaFold 3 Demo: A step-by-step tutorial to predict protein molecules with AI](https://medium.com/@isaacritharson/googles-alphafold-3-a-step-by-step-tutorial-to-predict-protein-molecules-demo-6923a6c926f7?source=rss-1a76e47d9042------2)
+- [Google’s AlphaFold 3 Demo: A step-by-step tutorial to predict protein molecules with AI](https://medium.com/@isaacritharson/googles-alphafold-3-a-step-by-step-tutorial-to-predict-protein-molecules-demo-6923a6c926f7?source=rss-1a76e47d9042------2)
 - [Project Q*: OpenAI’s foundational secret to achieving Artificial General Intelligence &lpar;AGI&rpar;](https://medium.com/@isaacritharson/project-q-openais-foundational-secret-to-achieving-artificial-general-intelligence-agi-e61fbf517e13?source=rss-1a76e47d9042------2)
 - [AIOps vs. MLOps Trend: Know the Key differences](https://medium.com/@isaacritharson/aiops-vs-mlops-trend-know-the-difference-c5c33938b85d?source=rss-1a76e47d9042------2)
 - [The AI behind Chandrayaan 3’s Successful Mission to the Moon](https://medium.com/@isaacritharson/know-theai-behind-chandrayaan-3s-success-mission-to-moon-s-south-pole-6a24128eecfd?source=rss-1a76e47d9042------2)
