@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Jetson Nano, Artificial Neural Networks, Machine Learning Techniques & Data Science**
 
-- 📫 How to reach me **isaacritharson@gmail.com**
+- 📫 How to reach me **premkumar.i@northeastern.edu**
 
 - ⚡ Fun fact **I think I am funnny**
 
