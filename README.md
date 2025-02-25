@@ -19,6 +19,7 @@
 - 📫 How to reach me **premkumar.i@northeastern.edu**
 
 - ⚡ Fun fact **I think I am funnny**
+- **Microsoft certified x1 Azure Fundamentals (AZ-900)**
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
