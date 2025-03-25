@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e479n1mnnqo7ap1ferd7ekv8491owhibslgiync83b9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacritharson&label=Profile%20views&color=0e75b6&style=flat" alt="isaacritharson" /> </p>
 
-- 🔭 I’m currently working on **MedQGraph - Beta, Early Diagnosis of Cognitive Impairment and Neurological Disorders T1, T2, T1C+ MRI using Transfer Learning**
+- 🔭 I’m currently working on **MedQGraph v1 - Beta, Early Diagnosis of Cognitive Impairment and Neurological Disorders T1, T2, T1C+ MRI using Transfer Learning**
 
 - 🌱 I’m currently learning **MLOps, Nvidia Isaac ROS, Backend Api**
 
