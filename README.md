@@ -23,7 +23,7 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [MedQGraph v1: TMKGs for AI-Driven Healthcare Insights](https://medium.com/@isaacritharson/medqgraph-v1-tmkgs-for-ai-driven-healthcare-insights-65e58530333d?source=rss-1a76e47d9042------2)
+- [MedQGraph v1 Software: TMKGs for AI-Driven Healthcare Insights](https://medium.com/@isaacritharson/medqgraph-v1-tmkgs-for-ai-driven-healthcare-insights-65e58530333d?source=rss-1a76e47d9042------2)
 - [Exploring Medical Transcription Knowledge Graph using Neo4j Aura DB](https://medium.com/@isaacritharson/exploring-medical-transcription-knowledge-graph-using-neo4j-f754a1855eda?source=rss-1a76e47d9042------2)
 - [AI in Action Highlights: AI for Health &amp; Wellcare](https://medium.com/@isaacritharson/ai-in-action-highlights-ai-for-health-wellcare-babe6bcfd1ea?source=rss-1a76e47d9042------2)
 - [Beginners Tutorial: Accessing Google’s Gemini♊ model API for various Multi-modal tasks, for Free !](https://medium.com/@isaacritharson/genai-tutorial-performing-tasks-using-googles-gemini-pro-try-multi-modal-ai-for-free-4a361e2eba56?source=rss-1a76e47d9042------2)
