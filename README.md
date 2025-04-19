@@ -23,7 +23,7 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [TraffAIQ: SDAIC Winning Project](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
+- [TraffAIQ: A Multi Agent AI-Powered Smart Traffic Management System](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
 - [MedQGraph v1 Software: TMKGs for AI-Driven Healthcare Insights](https://medium.com/@isaacritharson/medqgraph-v1-tmkgs-for-ai-driven-healthcare-insights-65e58530333d?source=rss-1a76e47d9042------2)
 - [Exploring Medical Transcription Knowledge Graph using Neo4j Aura DB](https://medium.com/@isaacritharson/exploring-medical-transcription-knowledge-graph-using-neo4j-f754a1855eda?source=rss-1a76e47d9042------2)
 - [AI in Action Highlights: AI for Health &amp; Wellcare](https://medium.com/@isaacritharson/ai-in-action-highlights-ai-for-health-wellcare-babe6bcfd1ea?source=rss-1a76e47d9042------2)
