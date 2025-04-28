@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **premkumar.i@northeastern.edu**
 
--	📊 Check out my Kaggle profile: https://www.kaggle.com/isaacritharson
+-	📊 Check out my Kaggle contributions: https://www.kaggle.com/isaacritharson
 
 - ⚡ Fun fact **I think I am funnny**
 - ☁️ Cloud certified x1 **Microsoft Azure Fundamentals (AZ-900)**
