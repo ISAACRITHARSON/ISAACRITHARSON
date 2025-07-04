@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MedQGraph v1 ⚛️- Beta, Early Diagnosis of Cognitive Impairment and Neurological Disorders T1, T2, T1C+ MRI using Transfer Learning**
 
-- 🌱 I’m currently learning **MLOps, Nvidia Isaac ROS, Backend, Api**
+- 🌱 I’m currently learning **MLOps, Nvidia Isaac ROS, Backend, Microservices**
 
 - 👯 I’m looking to collaborate on **Open Source Contributions**
 
