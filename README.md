@@ -21,7 +21,7 @@
 -	📊 Check out my Kaggle contributions: https://www.kaggle.com/isaacritharson
 
 - ⚡ Fun fact **I think I am funnny**
-- ☁️ Cloud certified x1 **Microsoft Azure Fundamentals (AZ-900)**[Verify Certificate](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102)
+- ☁️ Cloud certified x1 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102)
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
