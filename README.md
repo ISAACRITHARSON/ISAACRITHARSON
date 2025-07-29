@@ -50,6 +50,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacritharson&show_icons=true&locale=en" alt="isaacritharson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacritharson&" alt="isaacritharson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacritharson" alt="isaacritharson" /></p>
 
 Would love to Collaborate. Don't hesitate to contact. Ciao!
