@@ -21,7 +21,8 @@
 -	📊 Check out my Kaggle contributions: https://www.kaggle.com/isaacritharson
 
 - ⚡ Fun fact **I think I am funnny**
-- ☁️ Cloud certified x2 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102) **OCI Foundation Associate (1Z0-1085-25)** [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DCE88DB3C5F7A2DB68500EC172C2900AE1BBD2D989604994B443BD98535EB5D)
+- ☁️ Cloud certified x2 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102)
+- **OCI Foundation Associate (1Z0-1085-25)** [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DCE88DB3C5F7A2DB68500EC172C2900AE1BBD2D989604994B443BD98535EB5D)
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
