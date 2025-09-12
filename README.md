@@ -26,7 +26,7 @@
 
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Basics of ROS2, Setup and Installation on Ubuntu OS](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
+- [Basics Setup of ROS2, Installation on Ubuntu OS](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
 - [TraffAIQ: A Multi Agent AI-Powered Smart Traffic Management System](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
 - [MedQGraph v1 Software: TMKGs for AI-Driven Healthcare Insights](https://medium.com/@isaacritharson/medqgraph-v1-tmkgs-for-ai-driven-healthcare-insights-65e58530333d?source=rss-1a76e47d9042------2)
 - [Exploring Medical Transcription Knowledge Graph using Neo4j Aura DB](https://medium.com/@isaacritharson/exploring-medical-transcription-knowledge-graph-using-neo4j-f754a1855eda?source=rss-1a76e47d9042------2)
