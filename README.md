@@ -24,7 +24,7 @@
 - ☁️ Cloud certified x2 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102)
 - **OCI Foundation Associate (1Z0-1085-25)** [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DCE88DB3C5F7A2DB68500EC172C2900AE1BBD2D989604994B443BD98535EB5D), **Oracle Cloud Infrastructure 2025 Data Science Professional (IZ0-1110-25)** [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=559C8A5E3A4D9E131F9578229F286F568DF2D7103B1F2D90518596A54E726FFC), **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional (1Z0-1127-25)** [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=23825CC3AC683A55C35BB353CE9050DDB53D95B5DC61284FE4FC4C3ABFD63F20)
 
-## Latest Blogs
+## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
 - [TeleOperating TurtleBot4-ROS2 Jazzy](https://medium.com/@isaacritharson/teleoperation-on-turtlebot4-ros2-2d75cd2c8534?source=rss-1a76e47d9042------2)
 - [ROS2 Basics, Setup, and Installation on Ubuntu OS — TurtleBot](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
