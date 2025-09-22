@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@isaacritharson](https://medium.com/@isaacritharson)
 
-- 💬 Ask me about **Jetson Nano, Artificial Neural Networks, Machine Learning Techniques & Data Science**
+- 💬 Ask me about **Jetson Nano, Artificial Neural Networks, Machine Learning Technoques & Data Science**
 
 - 📫 How to reach me **premkumar.i@northeastern.edu**
 
