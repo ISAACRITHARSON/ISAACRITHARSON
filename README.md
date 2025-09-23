@@ -21,7 +21,7 @@
 -	📊 Check out my Kaggle contributions: https://www.kaggle.com/isaacritharson
 
 - ⚡ Fun fact **I think I am funnny**
-- ☁️ Cloud certified x2 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102), **OCI Foundation Associate (1Z0-1085-25)** [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DCE88DB3C5F7A2DB68500EC172C2900AE1BBD2D989604994B443BD98535EB5D)
+- ☁️ Cloud certified x4 **Microsoft Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/isaacritharson-5795/379594F68A1306C4?sharingId=23981B34313AE102), **OCI Foundation Associate (1Z0-1085-25)** [Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DCE88DB3C5F7A2DB68500EC172C2900AE1BBD2D989604994B443BD98535EB5D)
 - **Oracle Cloud Infrastructure 2025 Data Science Professional (IZ0-1110-25)** [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=559C8A5E3A4D9E131F9578229F286F568DF2D7103B1F2D90518596A54E726FFC), **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional (1Z0-1127-25)** [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=23825CC3AC683A55C35BB353CE9050DDB53D95B5DC61284FE4FC4C3ABFD63F20)
 
 ## Contributing Technical Blogs
