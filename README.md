@@ -1,6 +1,6 @@
 ![MasterHead](https://www.nvidia.com/content/dam/en-zz/Solutions/about-us/nvidia-awards/about-nvidia-our-awards-banner-1023-t.jpg)
 <h1 align="center">Hi <img alt="waving" width="50" height="50" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> , I'm Isaac Ritharson P</h1>
-<h3 align="center">A passionate Applied AI Scientist and Data Science Enthusiast from Seattle, Washington</h3>
+<h3 align="center">A passionate Applied AI Scientist, Innovator and Data Science Enthusiast from Seattle, Washington</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e479n1mnnqo7ap1ferd7ekv8491owhibslgiync83b9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacritharson&label=Profile%20views&color=0e75b6&style=flat" alt="isaacritharson" /> </p>
 
