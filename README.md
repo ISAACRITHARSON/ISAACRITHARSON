@@ -53,4 +53,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacritharson" alt="isaacritharson" /></p>
 
-Would love to Collaborate. Don't hesitate to contact. Ciao!
+Would love to Collaborate. on't hesitate to contact. Ciao!
