@@ -26,7 +26,7 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Team IDRIS: Indoor Delivery Robot Intelligence System](https://medium.com/@isaacritharson/team-idris-indoor-delivery-robot-intelligence-system-eeb5a2a7c480?source=rss-1a76e47d9042------2)
+- [Project IDRIS: Indoor Delivery Robot Intelligence System](https://medium.com/@isaacritharson/team-idris-indoor-delivery-robot-intelligence-system-eeb5a2a7c480?source=rss-1a76e47d9042------2)
 - [TeleOperating TurtleBot4 on ROS2 Jazzy](https://medium.com/@isaacritharson/teleoperation-on-turtlebot4-ros2-2d75cd2c8534?source=rss-1a76e47d9042------2)
 - [ROS2 Basics, Setup, and Installation on Ubuntu OS TurtleBot](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
 - [TraffAIQ: A Multi Agent AI-Powered Smart Traffic Management System](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
