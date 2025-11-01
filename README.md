@@ -26,11 +26,11 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Team IDRIS: Indoor Delivery Robot Intelligence System](https://medium.com/@isaacritharson/team-idris-indoor-delivery-robot-intelligence-system-eeb5a2a7c480?source=rss-1a76e47d9042------2)
 - [TeleOperating TurtleBot4 on ROS2 Jazzy](https://medium.com/@isaacritharson/teleoperation-on-turtlebot4-ros2-2d75cd2c8534?source=rss-1a76e47d9042------2)
 - [ROS2 Basics, Setup, and Installation on Ubuntu OS TurtleBot](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
 - [TraffAIQ: A Multi Agent AI-Powered Smart Traffic Management System](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
 - [MedQGraph v1 Software: TMKGs for AI-Driven Healthcare Insights](https://medium.com/@isaacritharson/medqgraph-v1-tmkgs-for-ai-driven-healthcare-insights-65e58530333d?source=rss-1a76e47d9042------2)
-- [Exploring Medical Transcription Knowledge Graph using Neo4j Aura DB](https://medium.com/@isaacritharson/exploring-medical-transcription-knowledge-graph-using-neo4j-f754a1855eda?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
