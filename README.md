@@ -26,11 +26,11 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
+- [ClubFinder](https://medium.com/@isaacritharson/clubfinder-fef0f4765820?source=rss-1a76e47d9042------2)
 - [30% of Modern Day Software Development written by Artificial Intelligence? What’s next](https://medium.com/@isaacritharson/30-of-modern-software-development-code-written-by-ai-what-is-next-5cad683fc437?source=rss-1a76e47d9042------2)
 - [Project IDRIS: Indoor Delivery Robot Intelligence System](https://medium.com/@isaacritharson/team-idris-indoor-delivery-robot-intelligence-system-eeb5a2a7c480?source=rss-1a76e47d9042------2)
 - [TeleOperating TurtleBot4 on ROS2 Jazzy](https://medium.com/@isaacritharson/teleoperation-on-turtlebot4-ros2-2d75cd2c8534?source=rss-1a76e47d9042------2)
 - [ROS2 Basics, Setup, and Installation on Ubuntu OS TurtleBot4](https://medium.com/@isaacritharson/basics-setup-of-ros2-installation-on-ubuntu-os-e8e3c8da2933?source=rss-1a76e47d9042------2)
-- [TraffAIQ: A Multi Agent AI-Powered Smart Traffic Management System](https://medium.com/@isaacritharson/traffaiq-sdaic-winning-project-e0a179d328c5?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
