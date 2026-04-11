@@ -26,12 +26,12 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Seedance 2.0: Why It’s Revolutionizing the Hollywood Industry](https://medium.com/@isaacritharson/seedance-2-0-why-its-revolutionizing-the-hollywood-industry-dd2d16f7aa30?source=rss-1a76e47d9042------2)
 - [The Invisible Crew:
 AI Behind the Scenes of Artemis II](https://medium.com/@isaacritharson/the-invisible-crew-ai-behind-the-scenes-of-artemis-ii-68dc441441e3?source=rss-1a76e47d9042------2)
 - [ClubFinder - Social media platform that helps you build communities](https://medium.com/@isaacritharson/clubfinder-fef0f4765820?source=rss-1a76e47d9042------2)
 - [30% of Modern Day Software Development written by Artificial Intelligence? What’s next](https://medium.com/@isaacritharson/30-of-modern-software-development-code-written-by-ai-what-is-next-5cad683fc437?source=rss-1a76e47d9042------2)
 - [Project IDRIS: Indoor Delivery Robot Intelligence System](https://medium.com/@isaacritharson/team-idris-indoor-delivery-robot-intelligence-system-eeb5a2a7c480?source=rss-1a76e47d9042------2)
-- [TeleOperating TurtleBot4 on ROS2 Jazzy](https://medium.com/@isaacritharson/teleoperation-on-turtlebot4-ros2-2d75cd2c8534?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
