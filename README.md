@@ -26,12 +26,12 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and advertising](https://medium.com/@isaacritharson/ai-and-advertising-b013e06996e7?source=rss-1a76e47d9042------2)
 - [Claude Mythos: AI Model that Is Too Dangerous for Public Release](https://medium.com/@isaacritharson/7-reasons-anthropic-says-claude-mythos-is-too-dangerous-for-public-release-44185bd8ff56?source=rss-1a76e47d9042------2)
 - [Seedance 2.0: Why It’s Revolutionizing the Hollywood Industry](https://medium.com/@isaacritharson/seedance-2-0-why-its-revolutionizing-the-hollywood-industry-dd2d16f7aa30?source=rss-1a76e47d9042------2)
 - [The Invisible Crew:
 AI Behind the Scenes of Artemis II](https://medium.com/@isaacritharson/the-invisible-crew-ai-behind-the-scenes-of-artemis-ii-68dc441441e3?source=rss-1a76e47d9042------2)
 - [ClubFinder - Social media platform that helps you build communities](https://medium.com/@isaacritharson/clubfinder-fef0f4765820?source=rss-1a76e47d9042------2)
-- [30% of Modern Day Software Development written by Artificial Intelligence? What’s next](https://medium.com/@isaacritharson/30-of-modern-software-development-code-written-by-ai-what-is-next-5cad683fc437?source=rss-1a76e47d9042------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
