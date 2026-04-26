@@ -26,7 +26,7 @@
 
 ## Contributing Technical Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Human Robot Collaboration](https://medium.com/@isaacritharson/human-robot-collaboration-4f95f2f976aa?source=rss-1a76e47d9042------2)
+- [Human Robot Collaboration and the current world](https://medium.com/@isaacritharson/human-robot-collaboration-4f95f2f976aa?source=rss-1a76e47d9042------2)
 - [AI and Advertising in the modern world](https://medium.com/@isaacritharson/ai-and-advertising-b013e06996e7?source=rss-1a76e47d9042------2)
 - [Claude Mythos: AI Model that Is Too Dangerous for Public Release](https://medium.com/@isaacritharson/7-reasons-anthropic-says-claude-mythos-is-too-dangerous-for-public-release-44185bd8ff56?source=rss-1a76e47d9042------2)
 - [Seedance 2.0: Why It’s Revolutionizing the Hollywood Industry](https://medium.com/@isaacritharson/seedance-2-0-why-its-revolutionizing-the-hollywood-industry-dd2d16f7aa30?source=rss-1a76e47d9042------2)
